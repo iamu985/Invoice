@@ -1,0 +1,2 @@
+# Invoice
+In a field of freelancing especially freelance writers who gets paid for the words they write, it is unavoidable that they haven't had to deal with making invoices for the articles they wrote and its respective word count, only to be sent to their client who in turn pays them for their hard-work. This application aims to automate the tedious process of editing and inserting each column of the invoice. With the help of Invoice you can  make you invoices in just one click!  
